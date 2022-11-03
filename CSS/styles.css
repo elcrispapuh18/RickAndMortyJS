@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #ff97d9, #9166ff, #97d9ff);
+}
+
+#Login, #Registro {
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 30px;
+    background: #ffff;
+    opacity: 95%;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+}
+
+#link, #salir {
+    text-align: right;
+}
